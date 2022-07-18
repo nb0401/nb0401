@@ -3,17 +3,17 @@ Hello, I’m @nb0401👋
 I’m currently in the Data Analytics Course at Career Foundry! I started to love data sets while working in a PR-Consulting agency and wanted to dig into this new opportunity! :)
 My work on this course is the key aspect on github. You can find my work tasks from the course in the "Data-Analytics-Course"-Repository!
 
-Currently there are 5 projects of this course in the repository:
+Currently there are 4 projects of this course in the repository:
 
 1. A presentation about marketing recommendations in the video game sector for a fictive company using past sales data (up to 2016) for the next year (2017).
 
-2. An interim report about the midterm findings of a project for a fictive medical staffing company regarding recommendations about where to send medical staff to support clinics and hospitals for the next influenza season in the US using past data. The key aspects were to find out which sort of population is the most vulnerable and in which states the most of these residents live. Using this knowledge to give a recommendation and a ranking for the US-States that can be used to send the medical staff.
+2.1 An interim report about the midterm findings of a project for a fictive medical staffing company regarding recommendations about where to send medical staff to support clinics and hospitals for the next influenza season in the US using past data. The key aspects were to find out which sort of population is the most vulnerable and in which states the most of these residents live. Using this knowledge to give a recommendation and a ranking for the US-States that can be used to send the medical staff.
 
-3. The final presentation about the findings of the project for the fictive medical staffing company. Here you'll find a pdf-file and 2 links, one to a youtube-video of me going through the presentation, and one link to my Tableau presentation.
+2.2 The final presentation about the findings of the project for the fictive medical staffing company. Here you'll find a pdf-file and 2 links, one to a youtube-video of me going through the presentation, and one link to my Tableau presentation.
 
-4. The results of my analysis for a fictive company called 'Rockbuster Stealth LLC' which offers a movie renting service. Due to the competitors and their streaming services, the task was to answer certain questions and develope a pool of knowledge to start an own online video rental service. Here we used SQL to work on and with the fictive database.
+3. The results of my analysis for a fictive company called 'Rockbuster Stealth LLC' which offers a movie renting service. Due to the competitors and their streaming services, the task was to answer certain questions and develope a pool of knowledge to start an own online video rental service. Here we used SQL to work on and with the fictive database.
 
-5. An excel analysis report in which I worked on 'The Instacard Online Grocery Shopping Dataset 2017' (accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 08.06.2022 [DD-MM-YYYY]). In this analysis we worked with Python (Pandas, Numpy, Matplotlib and Seaborn in Jupyter). I cleaned and wrangled 4 different dataframes into one to analyse customer behavior and demographics. Therefore, I dissected around 31 million orders into 512 customer profiles to compare the customer profiles ordering the most with the overall customers to find out what the 'premium' customer wants.
+4. An excel analysis report in which I worked on 'The Instacard Online Grocery Shopping Dataset 2017' (accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 08.06.2022 [DD-MM-YYYY]). In this analysis we worked with Python (Pandas, Numpy, Matplotlib and Seaborn in Jupyter). I cleaned and wrangled 4 different dataframes into one to analyse customer behavior and demographics. Therefore, I dissected around 31 million orders into 512 customer profiles to compare the customer profiles ordering the most with the overall customers to find out what the 'premium' customer wants.
 
 
 
